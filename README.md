@@ -1,6 +1,7 @@
 # Hackbat
 
 HackBat is an open-source device designed for hackers and makers to experiment with different pen-testing techniques. The device is based on the Raspberry Pi RP2040 microcontroller and has an RF transceiver, NFC, WIFI, OLED display...
+https://www.hackster.io/pablotrujillojuan/hackbat-1dfdbc?f=1
 
 ## RP2040
 
